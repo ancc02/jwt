@@ -1,0 +1,16 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "Uso de jwt token para la seguridad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.20"
+  }
+}
